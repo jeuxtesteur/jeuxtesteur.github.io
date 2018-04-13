@@ -1,3 +1,5 @@
 ## Hello
-The only language you can use right now is :
-[Japanese](japanese.md)
+Select your language : 
+
+- [Japanese](japanese.md)
+- [Spanish](spanish.md)
