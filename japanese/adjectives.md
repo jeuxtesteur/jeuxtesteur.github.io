@@ -4,6 +4,8 @@ blablabla
 
 ### i (い) Adjectives
 
+These adjectives are considered as true adjectives, we can use them directly in front of the word we want to modifiy.
+
 The adjective いい meaning good will be used, it is the only irregular adjective. The first い becomes よ in all tenses except non-past positive.
 
 #### Normal/Polite
